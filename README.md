@@ -82,3 +82,8 @@ Use the included Processing sketch (`data_visualisation.pde`) to:
 This project is open-source under the [MIT License](LICENSE). You're welcome to use, adapt, and share with proper credit.
 
 ---
+
+## 🙋‍♂️ Author
+
+**Aobakwe Bogatsu**  
+Computer Systems Engineering Student 
